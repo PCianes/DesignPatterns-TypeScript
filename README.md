@@ -4,3 +4,7 @@
 
 - [Refactoring.guru](https://refactoring.guru/es/design-patterns/catalog)
 - [McDonaldLand.info](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
+
+---
+
+![DesignPatterns-by-RefactoringGuru](/DesignPatterns-by-RefactoringGuru.png)
